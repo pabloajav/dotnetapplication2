@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-test
-=======
 test hola
->>>>>>> Stashed changes
+cambio 1
+cambio 2
